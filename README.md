@@ -1,0 +1,32 @@
+# Family Bakery Website
+
+A static bakery website developed as a **training project with an institute**, focusing on building real-world website layouts using HTML and CSS.
+
+## 🍰 Project Overview
+This project simulates a small business bakery website and includes structured sections such as homepage, gallery, and contact information. It was created as part of practical frontend training.
+
+## 🚀 Features
+- Clean and organized page layout
+- Visual content suitable for a business website
+- Multiple sections representing a real bakery site
+- Basic responsive styling
+- Structured HTML and CSS files
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+
+## 🎓 Training Context
+This project was completed as part of a **hands-on training program with an institute**, aiming to strengthen frontend fundamentals and website structure skills.
+
+## 📂 Project Structure
+
+## 🎯 Purpose
+To practice building static websites, organizing content visually, and applying CSS styling to simulate real business web pages.
+
+## 🔗 Source Code
+👉 https://github.com/MaiSaleh/family-bakery-s-
+
+## 👩‍💻 Author
+**Mai AlMoneem**  
+GitHub: https://github.com/MaiSaleh
